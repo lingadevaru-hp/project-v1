@@ -1,9 +1,9 @@
 # Team Assignment Map
 
 Confirmed assignments:
-- Gare Nagaraju -> Architecture Design (Member 2)
-- Achyuth -> Model Implementation (Member 4)
-- Khushi -> UI & Documentation (Member 5)
+- Gare Nagaraju -> Architecture Design
+- Achyuth -> Model Implementation
+- Khushi -> UI & Documentation
 
 Pending names (not shared yet):
 - Member 1 -> ML Model Logic Building

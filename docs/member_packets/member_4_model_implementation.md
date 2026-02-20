@@ -1,4 +1,4 @@
-# Member 4 (Achyuth) - Model Implementation
+# Achyuth - Model Implementation
 
 ## Role Summary
 You are responsible for integrating data, training, prediction, and schedule generation into a working pipeline.

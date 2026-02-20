@@ -1,4 +1,4 @@
-# Member 5 (Khushi) - UI & Documentation
+# Khushi - UI & Documentation
 
 ## Role Summary
 You are responsible for making the project understandable and demonstrable for reviewers.

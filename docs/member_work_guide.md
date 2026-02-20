@@ -13,7 +13,7 @@ Files:
 - `src/metro_perceptron/model.py`
 - `src/metro_perceptron/features.py`
 
-## Member 2 (Gare Nagaraju) - Architecture Design
+## Gare Nagaraju - Architecture Design
 
 Completed:
 - Designed end-to-end modular architecture (data -> features -> model -> scheduler -> interfaces).
@@ -33,7 +33,7 @@ Files:
 - `data/metro_line.csv`
 - `src/metro_perceptron/data.py`
 
-## Member 4 (Achyuth) - Model Implementation
+## Achyuth - Model Implementation
 
 Completed:
 - Implemented training/inference pipeline.
@@ -45,7 +45,7 @@ Files:
 - `src/metro_perceptron/scheduler.py`
 - `scripts/run_demo.py`
 
-## Member 5 (Khushi) - UI & Documentation
+## Khushi - UI & Documentation
 
 Completed:
 - Built optional Streamlit UI for model controls and schedule visualization.

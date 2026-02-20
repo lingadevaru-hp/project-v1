@@ -1,4 +1,4 @@
-# Member 2 (Gare Nagaraju) - Architecture Design
+# Gare Nagaraju - Architecture Design
 
 ## Role Summary
 You are responsible for the system design and module flow.

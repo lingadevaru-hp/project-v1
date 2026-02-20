@@ -17,7 +17,7 @@ Show file:
 - `src/metro_perceptron/model.py`
 - `src/metro_perceptron/features.py`
 
-## Member 2 (Gare Nagaraju) - Architecture Design
+## Gare Nagaraju - Architecture Design
 
 What to explain:
 - Pipeline: Data -> Features -> Model -> Scheduler -> Outputs (CLI/UI/tests).
@@ -42,7 +42,7 @@ Show file:
 - `data/metro_line.csv`
 - `src/metro_perceptron/data.py`
 
-## Member 4 (Achyuth) - Model Implementation
+## Achyuth - Model Implementation
 
 What to explain:
 - Trained model on segment-level data.
@@ -56,7 +56,7 @@ Show file:
 - `scripts/run_demo.py`
 - `src/metro_perceptron/scheduler.py`
 
-## Member 5 (Khushi) - UI & Documentation
+## Khushi - UI & Documentation
 
 What to explain:
 - Added Streamlit UI to adjust hyperparameters and starting time.
