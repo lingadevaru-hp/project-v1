@@ -1,4 +1,4 @@
-# Member 3 - Dataset / Database
+# Madhan - Dataset / Database
 
 ## What You Actually Built
 - Designed the dataset schema for metro stop and segment behavior.
